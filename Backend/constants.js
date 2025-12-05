@@ -1,3 +1,3 @@
-DB_NAME=DevSpherX
+ const DB_NAME='DevSpherX'
 
 export {DB_NAME}
